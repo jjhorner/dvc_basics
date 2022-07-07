@@ -1,0 +1,4 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = https://www.dropbox.com/sh/8g4swa1az67yc6k/AAAFJNNanSxDup_tsuiYSmjla?dl=0
